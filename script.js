@@ -5,6 +5,7 @@
     setInterval( function(){  
         nextImage();
     }, 1000)    
+     
 
     function nextImage(){   
         count++;  
@@ -16,6 +17,7 @@
 
     }
 
+     
 
     
   
