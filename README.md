@@ -17,3 +17,5 @@
 💻 O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, e tem sido uma ótima oportunidade para colocar em prática meus aprendizados no desenvolvimento web.
 
 🌱 Estou evoluindo a cada projeto e animado com o que ainda está por vir!</p>
+<br> 
+<img src="https://github.com/user-attachments/assets/8bf9c1a3-dac5-4e1b-b9d2-a75bc2393a84" />
